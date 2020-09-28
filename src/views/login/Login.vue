@@ -55,12 +55,12 @@
               <b-card-body class="text-center">
                 <div>
                   <h2>Sign up</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p>Create a new user here.</p>
                   <b-button
                     v-on:click="register()"
                     variant="primary"
                     class="active mt-3"
-                  >Register Now!</b-button>
+                  >Add User!</b-button>
                   
                 </div>
               </b-card-body>
