@@ -1,6 +1,6 @@
 <template>
   <div class="animated fadeIn">
-    Appname
+    App Name Dashboard
   </div>
 </template>
 
